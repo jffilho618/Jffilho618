@@ -23,7 +23,7 @@
 </div>
   
   ##
- https://www.linkedin.com/in/jo%C3%A3o-batista-59a1502b4/
+ 
 <div> 
   <a href="https://www.youtube.com/@bomb4tv261" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
   <a href="https://instagram.com/devjotaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
