@@ -1,9 +1,9 @@
 ## Oi eu sou joão Batista, Graduando em Sistemas de Informação !
 
 
-[![João Batista's GitHub stats](https://github-readme-stats.vercel.app/api?username=jffilho618&show_icons=true&theme=vue-dark)](https://github.com/jffilho618)
+[![João Batista's GitHub stats](https://github-readme-stats.vercel.app/api?username=jffilho618&show_icons=true&theme=solarized-light)](https://github.com/jffilho618)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=compact&theme=vue-dark&card_width=468)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=compact&theme=vue-solarized-light_width=468)
 
 
 
