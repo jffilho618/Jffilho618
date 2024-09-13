@@ -3,7 +3,7 @@
 
 [![João Batista's GitHub stats](https://github-readme-stats.vercel.app/api?username=jffilho618&show_icons=true&theme=vue-dark)](https://github.com/jffilho618)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=compact&theme=vue-dark&card_width=495)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=compact&theme=vue-dark&card_width=465)
 
 
 
