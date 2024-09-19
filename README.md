@@ -3,6 +3,8 @@
 
 [![João Batista's GitHub stats](https://github-readme-stats.vercel.app/api?username=jffilho618&show_icons=true&theme=solarized-light&hide_title=true&card_width=500)](https://github.com/jffilho618)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&hide=language1,language2=&theme=solarized-light&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&hide=language1,language2=&theme=solarized-light&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=compact)
 
 
 
