@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jffilho618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python icon" height="40" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icon" height="40" width="50" />
