@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" alt="Prolog Logo" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="VsCode icon" height="40" width="50"/>
   
-  < align="right">
+  <text align="right">
   <img src="https://profile-counter.glitch.me/jffilho618/count.svg?"  />
 
 ###
