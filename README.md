@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="crigth">
   <img height="200" src="https://media.tenor.com/hwHxXMPpMIsAAAAi/bomberman.gif"  />
 </div>
 
