@@ -1,11 +1,14 @@
 ## Oi eu sou joão Batista, Graduando em Sistemas de Informação !
 
 
-[![João Batista's GitHub stats](https://github-readme-stats.vercel.app/api?username=jffilho618&show_icons=true&theme=solarized-light&hide_title=true&card_width=500)](https://github.com/jffilho618)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&hide=language1,language2,language3=&theme=solarized-light&card_width=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&langs_count=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&hide_progress=true)
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jffilho618&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jffilho618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
