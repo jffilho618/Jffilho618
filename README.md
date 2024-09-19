@@ -33,8 +33,6 @@
   <a href="https://wa.me/5589988152737" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg?username=jffilho618">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?username=jffilho618">
