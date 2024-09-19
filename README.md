@@ -10,8 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <div align="right">
-  <img src="https://profile-counter.glitch.me/jffilho618/count.svg?"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python icon" height="40" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icon" height="40" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" height="40" width="50" />
@@ -37,6 +36,8 @@
   <a href="mailto:contatojffilho618@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-59a1502b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5589988152737" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
+  <div align="right">
+  <img src="https://profile-counter.glitch.me/jffilho618/count.svg?"  />
 </div>
 
 <picture>
