@@ -6,7 +6,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jffilho618&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jffilho618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img height="100" src="https://media.tenor.com/hwHxXMPpMIsAAAAi/bomberman.gif"  />
+  align="right">
+  <img height="150" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif"  />
 </div>
 
 <div style="display: inline_block"><br>
