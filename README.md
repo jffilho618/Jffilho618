@@ -5,6 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&hide=language1,language2,language3=&theme=solarized-light&card_width=300)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&langs_count=8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilho618&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffilho618&hide_progress=true)
 
 
 
