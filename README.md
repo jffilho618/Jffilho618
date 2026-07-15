@@ -4,7 +4,7 @@
 
 > **Sistemas de Informação - UFPI, CSHNB | 8º Período**
 > 
-> Desenvolvedor Fullstack Web/Python e Analista de Dados com foco em soluções eficientes e análise de dados inteligente.
+> Desenvolvedor Fullstack Web/Python com foco em soluções eficientes e análise de dados inteligente.
 
 <br clear="both">
 
