@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=00d9ff&vCenter=true&center=true&width=1000&lines=Jo%C3%A3o+Batista;Desenvolvedor+Fullstack;Analista+de+Dados;6%C2%BA+Per%C3%ADodo+-+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=00d9ff&vCenter=true&center=true&width=1000&lines=Jo%C3%A3o+Batista;Desenvolvedor+Fullstack;Analista+de+Dados;8%C2%BA+Per%C3%ADodo+-+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 > **Sistemas de Informação - UFPI, CSHNB | 8º Período**
 > 
